@@ -30,7 +30,7 @@ The Onimai RAT Removal Tool is a powerful and efficient utility designed to dete
 
 - Windows 7/8/10/11
 
-.NET Framework 4.8+ or later
+- .NET Framework 4.8+ or later
 
 # Contributing
 
