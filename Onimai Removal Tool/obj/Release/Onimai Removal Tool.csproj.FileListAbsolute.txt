@@ -1,0 +1,12 @@
+C:\Users\miles\Downloads\OAAA\Onimai Removal Tool\bin\Release\Microsoft.Win32.TaskScheduler.xml
+C:\Users\miles\Downloads\OAAA\Onimai Removal Tool\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\miles\Downloads\OAAA\Onimai Removal Tool\obj\Release\Onimai Removal Tool.csproj.AssemblyReference.cache
+C:\Users\miles\Downloads\OAAA\Onimai Removal Tool\obj\Release\Onimai Removal Tool.csproj.CoreCompileInputs.cache
+C:\Users\miles\Downloads\OAAA\Onimai Removal Tool\obj\Release\Onimai R.002DF4F6.Up2Date
+C:\Users\miles\Downloads\OAAA\Onimai Removal Tool\bin\Release\OniRemTool.exe.config
+C:\Users\miles\Downloads\OAAA\Onimai Removal Tool\bin\Release\OniRemTool.exe
+C:\Users\miles\Downloads\OAAA\Onimai Removal Tool\bin\Release\OniRemTool.pdb
+C:\Users\miles\Downloads\OAAA\Onimai Removal Tool\obj\Release\Onimai Removal Tool.csproj.Fody.CopyLocal.cache
+C:\Users\miles\Downloads\OAAA\Onimai Removal Tool\obj\Release\Onimai Removal Tool.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\miles\Downloads\OAAA\Onimai Removal Tool\obj\Release\OniRemTool.exe
+C:\Users\miles\Downloads\OAAA\Onimai Removal Tool\obj\Release\OniRemTool.pdb
